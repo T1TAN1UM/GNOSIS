@@ -3,3 +3,4 @@
 
 [MCS-012 Computer Orgainzation and Assembly](https://t1tan1um.github.io/GNOSIS/MCS012/)<br/>
 [MCS-041 Fundamentals of Computer Networking](https://t1tan1um.github.io/GNOSIS/MCS041/)
+[MCS-014 System Analysis and Design](https://t1tan1um.github.io/GNOSIS/MCS014/)
