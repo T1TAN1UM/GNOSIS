@@ -16,3 +16,6 @@
 [MCS-024 JAVA](https://t1tan1um.github.io/GNOSIS/MCS024/)<br/>
 [MCS-041 Fundamentals of Computer Networking](https://t1tan1um.github.io/GNOSIS/MCS041/)<br/>
 [MCS-014 System Analysis and Design](https://t1tan1um.github.io/GNOSIS/MCS014/)<br/>
+
+
+#### Disclaimer : This github pages site is just a collection of links contributed by several contributors, @t1tan1um is not responsible for the content available available over these links.
