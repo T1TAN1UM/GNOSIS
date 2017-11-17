@@ -1,3 +1,12 @@
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-67145855-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-67145855-2');
+</script>
 ## Welcome to GNOSIS
 ### We are an online group of contributors trying to maintain a centralized collection of notes for IGNOU MCA students.
 
