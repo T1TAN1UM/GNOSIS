@@ -18,4 +18,4 @@
 [MCS-014 System Analysis and Design](https://t1tan1um.github.io/GNOSIS/MCS014/)<br/>
 
 
-#### Disclaimer : This github pages site is just a collection of links contributed by several contributors, <a href="https://github.com/T1TAN1UM">T1TAN1UM</a> is not responsible for the content available available over these links.
+#### Disclaimer : This github pages site is just a collection of links contributed by several contributors, <a href="https://github.com/T1TAN1UM">T1TAN1UM</a> is not responsible for the content available over these links.
